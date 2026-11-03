@@ -50,6 +50,15 @@
       },
       "description": "Split a long rehearsal, jam or gig recording into individual, named songs at matched loudness.",
       "homepage": "https://github.com/Jollyhrothgar/track-splitter"
+    },
+    {
+      "name": "reuse",
+      "source": {
+        "source": "github",
+        "repo": "Jollyhrothgar/reuse-plugin"
+      },
+      "description": "Before building a skill, plugin or MCP server, search public registries (skills.sh, plugin marketplaces, goodailist, awesome-lists, the MCP registry, GitHub) for one that already exists, and decide adopt, adapt, or build.",
+      "homepage": "https://github.com/Jollyhrothgar/reuse-plugin"
     }
   ]
 }

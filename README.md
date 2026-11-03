@@ -33,9 +33,10 @@ it.
 | `session` | Find and resume past Claude Code and OpenCode sessions | `find` — [repo](https://github.com/Jollyhrothgar/session-plugin) |
 | `arch` | A source-grounded, navigable HTML explanation of a system's architecture | `visualize` — [repo](https://github.com/Jollyhrothgar/arch-plugin) |
 | `track-splitter` | Split a long rehearsal recording into named songs | [repo](https://github.com/Jollyhrothgar/track-splitter) |
+| `reuse` | Before building a skill, plugin or MCP server, check whether one already exists and decide adopt, adapt, or build | `find` — [repo](https://github.com/Jollyhrothgar/reuse-plugin) |
 
 Skills are namespaced by their plugin: `/vault:note`, `/write:check`,
-`/session:find`, `/arch:visualize`. A plugin is named for its subject and each
+`/session:find`, `/arch:visualize`, `/reuse:find`. A plugin is named for its subject and each
 skill for the action, so `/arch:` lists everything there is to do with
 architecture.
 
